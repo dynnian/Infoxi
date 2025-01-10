@@ -1,9 +1,9 @@
 # Infoxi
 
-**Infoxi** is an advanced and ethical social engineering platform tailored for whitehat and bluehat cybersecurity experts, organizational analysts, and professionals in intelligence or governance. Designed to collect, manage, and analyze information about individuals and their interactions, Infoxi provides insights into social, professional, and organizational dynamics.
+**Infoxi** is a simple social engineering platform tailored for whitehat and bluehat cybersecurity experts, organizational analysts, and professionals in intelligence or governance. Designed to collect, manage, and analyze information about individuals and their interactions, Infoxi provides insights into social, professional, and organizational dynamics.
 
-## Features for the MVP
-The first iteration of Infoxi focuses on a simple and efficient information management system with the following features:
+## Features
+Infoxi has the following features:
 
 ### Core Features
 1. **Authentication and User Management**
