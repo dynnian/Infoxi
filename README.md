@@ -1,4 +1,4 @@
-# Infoxi
+# Infoxi (WIP)
 
 **Infoxi** is a simple social engineering platform tailored for whitehat and bluehat cybersecurity experts, organizational analysts, and professionals in intelligence or governance. Designed to collect, manage, and analyze information about individuals and their interactions, Infoxi provides insights into social, professional, and organizational dynamics.
 
