@@ -1,6 +1,0 @@
-﻿services:
-  infoxi:
-    image: infoxi
-    build:
-      context: .
-      dockerfile: Infoxi/Dockerfile
